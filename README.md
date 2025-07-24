@@ -71,7 +71,7 @@
 - 📊 [Sorting Visualizer in JS + Django](#)
 - 🧠 [AI Career Path Recommender](#)
 - 🎙️ [YouTube Transcript Summarizer with Audio](#)
-- 🎟️ [Smart QR-based Ration Distribution System](#)
+
 
 ---
 
