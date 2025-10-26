@@ -52,19 +52,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Replicate API](https://img.shields.io/badge/Replicate_API-blueviolet?style=flat)
 ![Groq + LLaMA3](https://img.shields.io/badge/LLaMA3%20via%20Groq-AI-blue)
-
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Anuj GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-
----
 
 ### 📌 Featured Projects
 
