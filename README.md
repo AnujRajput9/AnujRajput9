@@ -26,10 +26,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![gTTS](https://img.shields.io/badge/gTTS-FF4088?style=flat)
-![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF8C00?style=flat)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat)
+
 
 #### 🌐 Web Development
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
@@ -37,7 +34,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
+
 
 #### 🗄️ Backend & Database
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat)
