@@ -65,7 +65,7 @@
 
 ### 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-rajput/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-rajput3/)  
 📫 **Email:** `anujrajput.dev@gmail.com` *(or update as per your real email)*  
 🌍 **Location:** India | 💻 Always open to collaboration
 
